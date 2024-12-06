@@ -1,4 +1,4 @@
-# ProyectoNavidenoZero
+# Proyecto Navideno Zero
 Loredo Melendez José de Jesús GDS0643
 
 ## NOMBRE DEL PERSONAJE
@@ -57,36 +57,36 @@ Complementa la tabla
 ## Video
 https://vm.tiktok.com/ZMke55SXG/
 
+https://drive.google.com/drive/folders/1slTbhgDJ2OTfPI8K8Hn1n3jG8jLtvHd3?usp=sharing
 
-## Codigo 
+
+## Código Node-Red 
 https://drive.google.com/file/d/1WZeJ2UYa-XdSbCwrnwjbZEBe75PfDovJ/view?usp=sharing
 
 
-
+## Código sensores 
+https://drive.google.com/drive/folders/1c9rnMAwiP6k_Acn4d3rN9RGCRXtr6tB5?usp=sharing
 
 
 ## Node Red (FLUJO)
--Descarga
+Descarga
 [flows.json](https://github.com/user-attachments/files/18012087/flows.json)
 
 
--Imagen
+Imagen
 
 
 ![Imagen de WhatsApp 2024-12-04 a las 11 32 17_bda4bc11](https://github.com/user-attachments/assets/2b3fd193-3159-48a0-8a19-ad6853267541)
 
 ## JavaScript
+Resultados de los examenes
 
-|Numero de examen|Imagen de porcentaje optenido|
-|-|-|
-|Examen 1|![Imagen de WhatsApp 2024-11-27 a las 14 16 27_deb3e4d0](https://github.com/user-attachments/assets/f7f8fb0a-5a32-4e02-b6c9-bda03eb3757d)|
-|Examen 2|![Imagen de WhatsApp 2024-11-27 a las 14 58 25_d0adfbd8](https://github.com/user-attachments/assets/bc669367-1862-4851-bcfd-51a93dec5128)|
-|Examen 3|![Imagen de WhatsApp 2024-11-27 a las 15 11 26_8ad0c4f4](https://github.com/user-attachments/assets/e154deaa-6fdd-424a-9ebc-5debdefce6d5)|
-|Examen 4|![Imagen de WhatsApp 2024-11-27 a las 17 29 57_630e01bb](https://github.com/user-attachments/assets/d3d1f508-dd6b-46a2-a2a7-83886c19d656)|
-|Examen 5|![Imagen de WhatsApp 2024-11-27 a las 17 29 12_92e8ce2c](https://github.com/user-attachments/assets/06057328-86e4-4241-840e-f97e6d878d5e)|
-|Examen 6|![Imagen de WhatsApp 2024-11-27 a las 17 55 52_32dcd770](https://github.com/user-attachments/assets/4fba5d3f-26ee-420b-91c3-38181fcbcdf5)|
-|Examen Final|![Imagen de WhatsApp 2024-11-27 a las 18 45 36_5496cd91](https://github.com/user-attachments/assets/8d51df43-951f-454e-a35d-37b6d6d1827c)|
+
+![Imagen de WhatsApp 2024-12-03 a las 05 00 19_c144a2cc](https://github.com/user-attachments/assets/700de859-f308-4141-983d-820c6d7db6ce)
+
 
 
 
 ## Retroalimentación hacia el/la compañero(a)
+Mi compañera Jaqueline, ayudo mucho en la elaboración del código pero tuvo grandes desventajas al igual que virtudes, tuvo un buen desempeño al imaginar el diseño del prototipo, al igual que ayudo en el acomodo de los componentes, pero a la vez la tanta creatividad fue un factor importante que nos dificulto realizar completamente lo planeado y provocar un resultado de menor calidad del esperado, ella mostro gran compromiso, pero la distancia de nuestro lugar donde vivimos nos afecto de otra forma, finalmente se le vio muy poca capacidad para realizar el código ya que requirio de diversas ayudas para realizarlas, lo que tambien retardo el prototiopo.
+Para finalizar, el proyecto de entrego lo mejor posible y aunque fue muy agradable trabajar con ella, es necesario que se desempeñe más tanto en diseño como en programación para que pueda tener un mejor desempeño en trabajos futuros.
